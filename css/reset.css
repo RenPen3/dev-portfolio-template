@@ -27,6 +27,15 @@ h1, h2 {
   margin-bottom: 1rem;
 }
 
+img {
+  display: block;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  width: 100%;
+}
+
 .btn {
   padding: .5em;
   color: #F4F4F4;
