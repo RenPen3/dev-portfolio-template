@@ -625,7 +625,7 @@
     .ham-menu {display: flex;}
     .hero {padding: 0;}
     .hero-content {
-      height: 92vh;
+      height: 100vh;
     }
     /* .hero-content {border: 2px solid dodgerblue;} */
     
@@ -642,7 +642,8 @@
     }
 
     .hero .hero-content-right {
-      height: 92vh;
+      padding-top: 3em;
+      height: 100vh;
     }
 
     .hero-content-right .hero-image {
