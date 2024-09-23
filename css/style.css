@@ -619,7 +619,7 @@
   /* ========================================================================== */
   /* Media queries for responsiveness */
   @media screen and (max-width: 768px) {
-    .header {padding: 1rem .5rem;background: rgba(244, 244, 244, .5);}
+    .header {padding: .5rem;background: rgba(244, 244, 244, .5);}
     .header .content .nav .nav-list {display: none;}
     .nav-btn {display: none;}
     .ham-menu {display: flex;}
