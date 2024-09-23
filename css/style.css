@@ -190,7 +190,7 @@
   justify-content: flex-end;
   align-items: flex-end;
   width: 38%;
-  padding: 1rem 2.5rem 2.5rem 0;
+  padding: 1rem 2.5rem 2rem 0;
   border-radius: 2px;
   background: rgba(244, 244, 244, 0.7);
   backdrop-filter: blur(5px);
@@ -633,6 +633,7 @@
     .hero-content-left {
       align-items: flex-start;
       bottom: 0;
+      padding: 1rem 1rem 0;
       width: 100%;
       border-radius: 0;
       text-align: left;
@@ -641,7 +642,7 @@
     }
 
     .hero .hero-content-right {
-      height: 80vh;
+      height: 85vh;
     }
 
     .hero-content-right .hero-image {
