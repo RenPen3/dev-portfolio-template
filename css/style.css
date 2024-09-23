@@ -625,14 +625,14 @@
     .ham-menu {display: flex;}
     .hero {padding: 0;}
     .hero-content {
-      height: 80vh;
+      height: 85vh;
     }
     /* .hero-content {border: 2px solid dodgerblue;} */
     
 
     .hero-content-left {
       align-items: flex-start;
-      bottom: 0;
+      bottom: 1.5rem;
       padding: 1rem 1rem 0;
       width: 100%;
       border-radius: 0;
