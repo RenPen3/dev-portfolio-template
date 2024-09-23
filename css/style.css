@@ -625,14 +625,14 @@
     .ham-menu {display: flex;}
     .hero {padding: 0;}
     .hero-content {
-      height: 85vh;
+      height: 92vh;
     }
     /* .hero-content {border: 2px solid dodgerblue;} */
     
 
     .hero-content-left {
       align-items: flex-start;
-      bottom: 1.5rem;
+      bottom: 1.3rem;
       padding: 1rem 1rem 0;
       width: 100%;
       border-radius: 0;
@@ -642,7 +642,7 @@
     }
 
     .hero .hero-content-right {
-      height: 85vh;
+      height: 92vh;
     }
 
     .hero-content-right .hero-image {
