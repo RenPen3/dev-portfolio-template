@@ -662,14 +662,14 @@
 
     .hero-content-left {
       align-items: flex-start;
-      bottom: 1.3rem;
-      padding: 1rem 1rem 0;
+      bottom: 0rem;
+      padding: 1rem;
       width: 100%;
       border-radius: 0;
       text-align: left;
-      background: rgba(0, 0, 0, 0);
+      background: rgba(0, 0, 0, 0.5);
       backdrop-filter: blur(0);
-    }
+  }
 
     .hero .hero-content-right {
       height: 93vh;
