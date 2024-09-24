@@ -2,6 +2,8 @@
 
 Thank you for downloading the Minimalistic Developer Portfolio Template! Follow the instructions below to set up and view your portfolio.
 
+GitHub repo page - https://github.com/RenPen3/dev-portfolio-template?tab=readme-ov-file
+
 ## Step 1: Download and Install an IDE
 To edit and view your developer portfolio template, you'll need to use an Integrated Development Environment (IDE). I recommend using Visual Studio Code (VSCode). Here's how to get started:
 
