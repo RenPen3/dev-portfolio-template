@@ -45,7 +45,7 @@ To view your developer portfolio in the browser and see changes in real-time, yo
 
 ## Step 5: Customize Your Portfolio
 
-You can now edit the >index.html, >style.css, and >script.js files in VSCode to customize your portfolio. As you make changes, they will automatically be reflected in the browser.
+You can now edit the '#0055fb'index.html, style.css, and script.js files in VSCode to customize your portfolio. As you make changes, they will automatically be reflected in the browser.
 
 **Need Help?**
 If you have any questions or run into any issues, please don’t hesitate to reach out to us at [admin@distantonedesigns.com]. We’re here to help!
